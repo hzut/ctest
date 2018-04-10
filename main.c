@@ -2,6 +2,6 @@ main ()
 {
 	printf("hello\n");
 
-	printf("testbranch world\n");
+	printf("merged testbranch/master world\n");
 	
 }
