@@ -1,7 +1,7 @@
 main ()
 {
-	printf("hello\n");
+	printf("heliddddlo\n");
 
-	printf("merged testbranch/master world\n");
+	printf("mergedxxxdd Jtestbranch/master world\n");
 	
 }
